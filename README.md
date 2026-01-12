@@ -1,1 +1,1 @@
-Here is a little touch of my proof techniques. 
+Selected mathematical proofs (undergraduate portfolio)
